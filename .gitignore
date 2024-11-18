@@ -1,3 +1,6 @@
 /node_modules
 
 .env
+src/public/.DS_Store
+src/.DS_Store
+.DS_Store
